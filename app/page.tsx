@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <h1>TESTING</h1>
       <br/>
-      <Link href="/posts">POSTING PAGE</Link>
+      <Link href="/posts">POSTING PAGE</Link> // Link meminimalisir resource yang ke load daripada menggunakan a href
       <br/>
       <Link href="/albums">ALBUM PAGE</Link>
     </>
